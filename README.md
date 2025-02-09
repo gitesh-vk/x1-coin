@@ -43,8 +43,9 @@ If you want to test the code in REMIX IDE, update the following line in the smar
 constructor(address _teamWallet, address _communityWallet) ERC20("X1Coin", "X1C") Ownable(msg.sender) {
 
 
-![x1-1](https://github.com/user-attachments/assets/6f7ca9e7-2cf2-414c-ba
-![x1-2](https://github.com/user-attachments/assets/c74d2987-34fd-4e3d-a35b-c67a522323b7)
-28-e01770c37ac3)
+![Test Script reasult](https://github.com/user-attachments/assets/f6a5ecac-09c1-47ff-9190-bf3a76eb7913)
 
+
+
+![Deploy Script Reasult](https://github.com/user-attachments/assets/38e3090c-c6b6-4b8d-bb25-431ff78aa58a)
 
