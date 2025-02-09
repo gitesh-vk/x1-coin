@@ -38,5 +38,6 @@ Security Measures
 
 # Test Script and Deply Script Added
 
-# Note: If you want to test the code in REMIX IDE, update the following line in the smart contract, as Remix IDE may be using an older version of OpenZeppelin:
+# Note:
+If you want to test the code in REMIX IDE, update the following line in the smart contract, as Remix IDE may be using an older version of OpenZeppelin:
 constructor(address _teamWallet, address _communityWallet) ERC20("X1Coin", "X1C") Ownable(msg.sender) {
