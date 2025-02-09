@@ -41,3 +41,6 @@ Security Measures
 # Note:
 If you want to test the code in REMIX IDE, update the following line in the smart contract, as Remix IDE may be using an older version of OpenZeppelin:
 constructor(address _teamWallet, address _communityWallet) ERC20("X1Coin", "X1C") Ownable(msg.sender) {
+
+
+![result]([http://url/to/img.png](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1))
