@@ -1,3 +1,8 @@
+# Note :
+Use Sepolia TestNet Otherwise Not working
+# Live Link
+https://crownfunding3.vercel.app/
+
 # X1Coin Staking and ERC-20 Token
 # Overview
 X1Coin is an ERC-20 token with staking functionality that allows users to earn rewards over time. 
